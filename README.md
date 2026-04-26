@@ -1,4 +1,4 @@
-# 🌑 Dark Survival Modpack
+# 🌑 Survival Horror Modpack
 
 Um modpack do CurseForge para Minecraft projetado para transformar o jogo em uma experiência mais sombria e hostil.  
 O objetivo é manter o jogador sob constante tensão, eliminando qualquer sensação real de segurança — seja em terra, na água, no céu, durante o dia ou na calada da noite.
@@ -22,7 +22,7 @@ Siga os passos abaixo para instalar o modpack:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/RaySilvaP/survival-horror-modpack.git
    ```
 
 2. Comprima o conteúdo do repositório em um arquivo `.zip`  
