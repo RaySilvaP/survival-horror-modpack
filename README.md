@@ -10,7 +10,7 @@ O objetivo é manter o jogador sob constante tensão, eliminando qualquer sensa�
 Para executar este modpack corretamente, certifique-se de que seu ambiente atende aos seguintes requisitos:
 
 - **Java:** Versão 17 (recomendado: 17.0.x)  
-- **RAM:** 2–3 GB alocados para Minecraft  
+- **RAM:** 2–3 GB alocados para o Minecraft  
 - **Launcher:** Um launcher compatível com CurseForge  
   - Recomendado: Prism Launcher  
 
