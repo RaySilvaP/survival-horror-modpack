@@ -62,6 +62,9 @@
   "waystones": {
     "waystone": true
   },
+  "gravestone": {
+    "grave": true
+  },
   "balm": {
     "jade": true
   }
